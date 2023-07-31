@@ -2,9 +2,9 @@
 
 Jack T. Sumner [1,+] , Cassidy L. Andrasz [1,+], Christine A. Johnson [1], Sarah Wax [1], Paul Anderson [2], Elena L. Keeling [1,^], Jean M. Davidson [1,^]
 
-[1] Department of Biological Sciences, California Polytechnic State University, 1 Grand Avenue, San Luis Obispo, CA 93407, USA
+[1] Department of Biological Sciences, California Polytechnic State University, San Luis Obispo, CA 93407, USA
 
-[2] Department of Computer Science and Software Engineering, California Polytechnic State University, 1 Grand Avenue, San Luis Obispo, CA 93407, USA
+[2] Department of Computer Science and Software Engineering, California Polytechnic State University, San Luis Obispo, CA 93407, USA
 
 [+] These authors contributed equally to this work and share first authorship.
 
